@@ -1,0 +1,49 @@
+body {
+    background: linear-gradient(to center bottom, #CCDAE0, #EDF2F4);
+}
+
+.main-header {
+    text-align: center;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #EF233C;
+}
+
+h3 {
+    text-decoration: underline dotted;
+    color: #2B2D42;
+}
+
+.bordure {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+.image {
+    border-width: 2px;
+    border-style: solid;
+    border-color: #8D99AE;
+    align-items: center;
+}
+
+footer {
+    position: absolute;
+    right: 0;
+    transition: left 1s, transform 1s;
+    white-space: nowrap;
+}
+
+.lien {
+    color: #2B2D42;
+}
+
+.lien:hover {
+    color: #D90429;
+}
+
+.centrer {
+    text-align: center;
+}

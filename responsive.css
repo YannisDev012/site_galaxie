@@ -1,0 +1,27 @@
+@media only screen and (min-width: 375px) {
+    /* responsive for iphone 12/13 ios 14.6 mini */
+    body {
+        background: chocolate;
+    }
+}
+
+@media only screen and (min-width: 412px) {
+    /* responsive for Galaxy note 20 Android 11*/
+    body {
+        background: rgb(61, 16, 187);
+    }
+}
+ 
+@media only screen and (min-width: 810px) {
+    /* responsive for Ipad*/
+    body {
+        background: rgb(15, 201, 31);
+    }
+}
+
+@media only screen and (min-width: 1920px) {
+    /* responsive for TV*/
+    body {
+        background: rgb(134, 131, 134);
+    }
+}
